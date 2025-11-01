@@ -1,0 +1,1294 @@
+Starting a Career in
+DATA
+SCIENCE
+Iliya Valchanov
+Co-Founder and Instructor at 365 Data Science
+Introduction by the Author
+Over the past few years, I’ve received hundreds of messages from our students asking for career
+advice. Some of them came from recent college graduates with no professional experience
+looking to identify their career path options and make their first steps in the ever-expanding
+data science field. Others came from tech industry professionals wondering how to hone their
+transferable skills and land a job in business intelligence or data science. And others still – from
+people working part- or full-time in a completely unrelated filed. The ones who study on a tight
+schedule with admirable commitment to transferring into data science. At 365, we are dedicated
+to helping all our students reach their data science goals, regardless of their background, work
+experience, and field of expertise. And while our courses teach how to do data science, it’s the
+career aspect of data science I’ve always felt compelled to address.
+So, I wrote this guide for you, the aspiring data science professional. No matter where you are
+in your career development, in these pages you’ll find the tools that will help you assess your
+skills, explore your options, decide and act to pursue the best career choice for you. I’ve spoken
+to experts, spent hundreds of hours reading the relevant literature, and, together with the 365
+team, conducted research and analyses of the many job options available in data science. How
+to get a job in data science? What are the top 5 data science career opportunities to explore?
+Which data science industries you should consider? and Where to find data science positions?
+These are just some of the questions we answer. This guide provides you with the roadmap you
+need to design your career future from square one and maximize your transferable skills in data
+science. It outlines the education and skills you need and, hopefully, illuminates your path to a
+satisfying career.  And although each person’s experience is unique, these key points apply to
+everyone.
+I hope you’ll refer to this guide often and I welcome you to keep writing to us. We are here to
+help you every step of the way as you progress through your data science career.
+Iliya Valchanov
+Co-Founder and Instructor at 365 Data Science
+Starting a Career in Data Science: Ultimate Guide
+Of course, if you’re one step ahead and you already intend to become a data scientist, then
+our online Data Science program is a great place to start.
+You can preview the course (12 hours of video instruction) for free.
+Is Data Science for Me?
+We ourselves have asked the very same question when we were
+at square one of our data science learning path. And we haven’t
+forgotten that every expert was once a beginner. So, we created
+this data science career guide with a three-fold purpose:
+1. Show you why data science opportunities are worth exploring;
+2. Inform you about the different careers in data science and boost
+your efficiency in discovering suitable data science roles;
+3. Prepare  you to pursue a career in data science.
+Table of
+CONTENTS
+Why is data science a good career
+to explore?
+Why is data science important? .........6
+Who can use data science? .................6
+What are the top 5 data science
+career opportunities to explore?
+Data Scientist ......................................8
+Data Analyst .............................................11
+BI Analyst ..................................................14
+Data Engineer ......................................17
+Data Architect .....................................20
+23	 What is the data science job
+outlook?
+Demand ........ ......................................24
+Future of data science job ..................24
+Job growth in data science ................24
+25	  What data science qualifications
+will get you on the path to success?
+Education ............................................26
+Skills ....................................................26
+Certificates ..........................................26
+27	 How to get a job in data science?
+Resume tips .........................................27
+Project portfolio advice ......................27
+Interview questions ............................27
+Internship opportunities .....................27
+28	 Which data science industries you
+should consider?
+Finance and Insurance ........................29
+Healthcare ...........................................29
+Manufacturing .....................................29
+30	 Types of organizations to
+consider?
+Consulting companies ........................30
+Startups ...............................................30
+Government jobs .................................30
+32	 About the author
+33 	Next steps
+Why is data science
+a good career to
+explore?
+Advancements in technology helped data science evolve from cleaning datasets
+and applying statistical methods to a field that encompasses data analysis,
+predictive analytics, data mining, business intelligence, machine learning, deep
+learning, and so much more. Now, there still might be some who think that data
+science is just a trend and the hype around it will eventually go away. Of course,
+nothing could be farther from reality.
+Starting a Career in Data Science: Ultimate Guide
+The truth is, data science is just gaining speed as all businesses
+(and government organizations) use enormous volumes of data
+to improve what they do and how they do it. But what makes data
+science the magic ingredient for success? Here are two tangible
+examples.
+Formula 1
+The Brazilian Grand Prix 2012. Red Bull’s Sebastian Vettel suffers
+the worst possible start, his car spinning out of control and losing
+its front wing on his opening lap. Vettel suddenly drops down to
+last. All seems doomed for the champion. However, the German
+somehow manages to recover and finish sixth, which grants him
+just enough points to snatch the world title for the third year in a
+row in the most dramatic fashion. Fierce driving or luck?
+Nope. That’s data science.
+Turns out, by the time Vettel made it to his 10-th lap pit stop, a team
+of brilliant data engineers had already used modeled data to run
+simulations. Thus, they were able to analyze what adjustments
+were necessary to keep Sebastian’s Renault going for the remaining
+70 laps. What a huge victory fueled by data!
+Caesars Casino
+Caesars Entertainment Corporation was the fourth-largest gaming
+company in the world in 2013, with annual revenues of $8.6 billion.
+Based in Nevada, US, it runs more than 50 hotels and casinos
+around the world, some of them at the most lucrative locations in
+Las Vegas.
+But do you know what Caesar’s most valuable asset is?
+It’s their database, giving indispensable insight into 45 million hotel
+and casino customers’ behavior and spending patterns.
+The corporation used 17 years of gathering information to build
+“an automated, targeted marketing strategy for every individual
+customer, using data to understand who they are, and then
+predictive modeling to assess the best way to incentivize them to
+spend money.” (Marr, 2016)
+What does this mean in practice?
+Well, if you’re a client with a high lifetime value that happens to
+have lost all their luck, dignity, and money at the Blackjack table,
+you’ll most certainly be approached by a staff member. They’ll
+immediately lift your spirits by serving you your favorite drink. Or
+they’ll hand you free tickets to an evening entertainment program,
+and even offer you other free perks they know your heart desires.
+That way, Caesar makes sure you’re happy and satisfied and keeps
+you coming back for more.
+Why is data science important?
+Data science isn’t just restricted to the F1 racetrack or the big
+casino business players. In fact, there is virtually no industry
+that can’t benefit from it. Retail and e-commerce, logistics and
+transportation, healthcare, finance, insurance, real estate – all these
+need a strong data science team that can leverage the data within
+their organization to gain a competitive advantage. That’s why, if
+you’re looking for a rewarding career with a strong impact on any
+business decision-making process, you should definitely explore
+the data science career path.
+
+You can. And your employer certainly can, too.
+In fact, the latter will welcome you with open arms, once they
+realize you’re brave and qualified enough to tame the tide of
+unstructured, semi-structured, and structured data, and use data
+insights to drive change. Of course, it goes without saying that
+those changes should lead to measurable results. After all, every
+company wants to ensure the well-being of their business, right?
+Now, we want to help you be the person that every big data science
+company or fast-growing startup would gladly hire on their team.
+So, how do you get into the data science field? Fortunately, there
+are numerous ways to do that. Some involve waltzing through the
+impressive “Data Science Leviathan” door, whereas others help you
+secure a career in data science through less demanding paths.
+What are the top
+5 data science
+opportunities to
+explore?
+To help you sort things out, we’ve featured the top 5 in-demand types of data
+science jobs – data analyst, BI analyst, data engineer, data architect, and, of
+course, data scientist.
+Starting a Career in Data Science: Ultimate Guide
+Starting a Career in Data Science: Ultimate Guide
+Who is a data scientist?
+What does a data scientist do?
+Practically everything. Data scientists have a strong curiosity and
+a passion for achieving practical business impact. In addition, they
+boast exceptional judgment combined with an analytical mindset.
+But what sets apart the best from the rest is a knack for creative
+problem solving and willingness to learn new technologies and
+skills.
+Why is that so important? Because data scientists must use
+machine learning models to solve challenging problems in all
+business areas. Moreover, they are real champions in utilizing
+statistical natural language processing to mine unstructured data
+and extract insights. Which doesn’t mean they don’t also deal with
+structured data. In fact, it’s quite the contrary. Data scientists model
+structured data with advanced statistical methods and algorithms
+to perform analyses. Then, they interpret the results and visualize
+the data to tell the most compelling stories to management and
+stakeholders to achieve the company’s business goals.
+Ever wondered how to become a data
+scientist? Also known as the Data Science
+Unicorn, a data scientist offers an unmatched
+blend of skills, much to the satisfaction
+of their employer. Data scientists not only
+understand the language of data, but they
+can also analyze it and draw actionable
+insights from it. Moreover, they’ve mastered
+the art of data storytelling to a level that
+makes both management and stakeholders
+nod in agreement and plan their strategy
+accordingly.
+How much does a data scientist earn?
+How much do data scientists make? Here are the numbers,
+according to Glassdoor and PayScale. As a data scientist in the U.S.,
+even with zero experience, you can get a $10,000 annual bonus
+on top of your $100,000 average annual pay. And, just in a few
+years’ time, your earnings can increase to $118,000, plus $12,000 in
+bonuses! You’ve set your gaze to London’s Big Ben and the UK? With
+no previous experience as a data scientist, you can expect to earn
+an average total compensation of £33,813. And once you have 1-4
+years behind your back, your average total compensation will rise to
+£39,573.
+Overall, the data scientist career outlook is undeniably positive. No
+wonder “data scientist” was coined the sexiest job out there!
+What’s the data scientist career path?
+You can start as data architects or data analysts, and gradually work
+their way up to this coveted job. In any case, if you’re aiming at the
+data scientist position, here’s everything you need to know to get
+started on the right career track.
+How to become a data scientist?
+Everybody wants to know how to be a data scientist. Well, maybe
+not literally everybody, but this is undeniably the most sought-after
+career in the data science field at the moment, as the demand for
+data scientists is constantly growing. Data scientists are independent
+and impactful, and If you want to get hired as one, you’re probably
+wondering what the data scientist duties are, how to acquire the
+necessary skills to apply for data scientist positions and if the salary
+will meet your expectations.
+Is data scientist a good career? To save you browsing through job
+boards and career websites to find the various information you need,
+we created this ‘data scientist snapshot’. We believe it will give you
+the insights you need to decide if the data scientist role fits your
+career needs and aspirations.
+•
+Integrity and confidentiality;
+•
+Desire to drive innovation and generate unique solutions;
+•
+Growth mindset;
+•
+Ability to track and share external trends, best practices or
+ideas;
+•
+Drive for performance;
+•
+Accountability;
+•
+Ability to thrive under pressure and fast pace;
+•
+Ability to take an unpopular stance.
+Soft skills
+•
+Strong written and verbal communication skills
+•
+Leadership skills;
+What education do you need to become a
+data scientist?
+For starters, you don’t need a Master’s or a Ph.D. degree to become
+a data scientist. If you already have it – great! It’s certainly a plus!
+However, a Bachelor’s degree is good enough to get you on the data
+scientist path. According to our extensive research on how to be a
+data scientist, a background in the following disciplines increases
+your chances of landing a data scientist job:
+•
+Economics and social sciences, which includes economics,
+finance, business studies, politics, psychology, philosophy,
+history, and marketing and management;
+•
+Natural science, including physics, chemistry, and biology;
+•
+Statistics and mathematics;
+•
+Computer science;
+•
+Engineering;
+•
+Data science and analysis, which includes machine learning.
+The good news is that even students from entirely different areas
+of studies, hold a very good chance of becoming data scientists.
+According to data from successful data scientists’ LinkedIn profiles,
+43% have completed at least one data science online course with 3
+certificates being the average.
+So, if you’ve never written a line of code in your life, you can still
+make up for it with determination and commitment to learning…
+And ultimately start a career in data science.
+What data scientist qualifications you
+should acquire?
+Data scientists are famous for their robust skillset and
+competences. So, here are the must-have qualifications you
+need to become a data scientist. But how can a single person
+be outstanding in the technical domain, business acumen, and
+interpersonal communication simultaneously? Well, it’s all about
+acquiring the right skills
+Technical skills
+•
+Excellent programming skills in R or Python and its data
+science libraries (Pandas, scikit-learn);
+•
+Experience with relational databases and SQL;
+•
+Experience in MATLAB;
+•
+Advanced practical knowledge of data science and machine
+learning /AI development frameworks;
+•
+Excellent analytical and learning skills;
+•
+Experience in Deep Learning frameworks (e.g. TensorFlow);
+•
+Experience with NLP algorithms is an advantage.
+Practical skills
+•
+Ability to start initiatives;
+•
+Ability to develop and leverage relationships with stakeholders
+to achieve a company’s business goals;
+•
+Ability to inspire others and support others’ development to
+achieve full potential;
+•
+Readiness to collaborate with engineering and BI teams.
+Well, now that you’ve got a good idea of what it’s like to be a data
+scientist and how to become one, you should feel more confident
+and determined on your path. However, if you feel you need
+additional data scientist career tips and advice, just scroll down
+the data science career guide. We’ve developed a special section
+to resume tips, project portfolio advice, interview questions, and
+internship opportunities. Furthermore, you’ll discover the most
+promising industries and organizations hiring data scientists, along
+with the best job boards for data science position. That said...
+Complete Online Data Science
+Training Program
+Everything you need to become an
+expert data scientist in months – from
+the fundamentals of Mathematics,
+Probability, Intro to Data & Data Science,
+through Tableau, SQL, R, and Python, all
+the way to Machine and Deep Learning.
+Preview the Program for Free
+Who is a data analyst?
+What does a data analyst do?
+Well, quite a lot. A data analyst is both a thinker and a doer who
+doesn’t hesitate to roll up their sleeves and dig into the numbers.
+Data analysts extract and analyze data with a “can do” approach
+and then present data-driven insights to underpin decision making.
+They also develop and build analytics models and approaches as
+the basis for a company’s strategy and vision. On top of that, they
+are often responsible for identifying and extracting key business
+performance, risk and compliance data, and converting it into
+easy-to-digest formats. So, as you can see, agility to shift between
+strategic projects and operational activities a must.
+Sounds a bit lonely? Think again. Data analysts are great team
+players and work closely with various departments and leaders
+within the organization. That’s super important if they want to
+be effective in this role. So, the ability to communicate well and
+influence is critical.
+How much does a data analyst earn?
+How much do data analysts make?
+Glassdoor and PayScale were kind enough to share their insights.
+If you’re taking the first steps in your data analyst career, you can
+expect an average pay of $57,000.
+As you reach 4-6 years of experience, your compensation will also
+go higher ($68,000 median annual salary and an average bonus of
+$4,705).
+You’re based in the UK? The average compensation for data
+analysts with less than 1 year of experience (including bonuses
+and overtime pay) is £23,870. In terms of data analyst job growth, if
+you already have 1-4 years of experience as a data analyst, you can
+expect annual earnings of £25,853. So, it looks like the data analyst
+path is worth exploring!
+What’s the data analyst career path?
+A budget analyst or a compensation and benefits analyst can be
+a starting point to your data analyst career. But, in any case, if
+you wish to advance on the data analytics career path, here’s all
+you need to learn in terms of education and data analyst skillset
+requirements.
+How to become a data analyst?
+Considering a career as a data analyst? That’s certainly a great
+option to explore, both on its own and as a gateway into data
+science. However, there are a few questions you need the answers
+to if you want to make sure that a career in data analytics is the best
+career path for you. So, this overview is designed to confirm the
+fundamentals of data analytics careers for you: what a data analyst
+does, what education is preferable or required, how to get into data
+analytics, and what skills will get you hired. We also discuss what
+salary you can expect over your data analyst career progression.
+Effectively, this overview gives you the insight you need to make
+up your mind and initiate the first steps towards a successful data
+science career.
+What education do you need to become a
+data analyst?
+If you consider becoming a data analyst, a Bachelor’s degree in IT,
+computer science or statistics will give you a strong advantage.
+However, equivalent experience in data and business analytics
+Data analysts are the real troopers of data
+science. They’re the ones who are involved
+in gathering data, structuring databases,
+creating and running models, and preparing
+advanced types of analyses to explain
+the patterns in the data that have already
+emerged. A data analyst also overlooks the
+basic part of predictive analytics.
+Starting a Career in Data Science: Ultimate Guide
+“The good news is, even if
+you lack the background and
+the experience, you still have
+good chance of getting a job
+as a data analyst.”
+Technical skills:
+•
+Programming and coding language skills using Python, R;
+•
+Expertise in SQL and a good understanding of how relational
+database management systems work;
+•
+Tableau Experience with large data sets and distributed
+computing;
+•
+Excellent Excel skills and ability to use advanced analytics
+and formulas;
+•
+Experience with extracting and analyzing data from diverse
+sources (multiple data marts and file formats);
+•
+Knowledge of statistics and statistical software packages,
+quantitative methods, confidence intervals, sampling and
+test/control cells;
+•
+Predictive modeling.
+a successful career as a data analyst. But this just may be the best
+way to achieve your goal. In most companies, you’ll be able to gain
+valuable experience and take advantage of many in-house training
+opportunities. So, the important thing is to stay curious and keep
+on learning. Real-world experience, exposure to the latest software
+programs, and communicating with experts in the field will expand
+your knowledge and put you on the data analyst track.
+What data analyst qualifications you
+should acquire?
+As a data analyst, you’ll have plenty of tasks to juggle on a daily
+basis. So, here are the qualification and skills you need to become a
+data analyst and handle all that data. And in order to be successful,
+you should demonstrate a plethora of skills. That said, technical
+expertise, a solution-oriented approach, and the ability to articulate
+complex technical terms and concepts to a non-technical audience
+are only part of the job requirements for a data analyst. Then,
+there are also the soft skills (which are often the most challenging
+to master). But don’t worry - we’ve  prepared an exhaustive list for
+you.
+also fit the bill. The good news is, even if you lack the background
+and the experience, you still have a good chance of getting a job
+as a data analyst. There are various ways to learn, such as taking
+qualification courses or enrolling in a comprehensive online
+training covering everything from statistics and Excel to SQL,
+Python, and Tableau.
+In fact, the latter will increase your chances to land an internship at
+a high-profile company and build your career from the ground up.
+Maybe an entry-level position isn’t how you imagined launching
+At entry-level position may be the best way  to gain
+real-world experience and gradually progress towards
+your goal of a successful data analyst career.
+Practical skills:
+•
+Strong attention to detail and ability to quality check your
+own work to ensure data mistakes are caught prior to work
+delivery;
+•
+Advanced analytical and data interpretation skills;
+•
+Ability to stay organized and deliver within agreed timeframe
+and scope;
+•
+Hands-on, problem-solving skills;
+•
+Ability to initiate and drive projects to completion with mini-
+mal guidance;
+•
+Ability to communicate the results of analyses in a clear and
+effective manner;
+•
+Confidentiality and personal integrity (a key competency,
+especially if your job requires managing sensitive data);
+•
+Confidence to challenge thinking and offer opinions, thou-
+ghts, and insight;
+•
+Prioritization skills;
+•
+A proactive approach to resolving problems;
+•
+Quick learning skills.
+Soft skills:
+•
+Excellent communication skills – both verbal and written;
+•
+Ability to articulate complex concepts;
+•
+Ability to collaborate effectively in any work environment;
+•
+Good listening skills.
+Now you’re aware of the most important aspect of a data analyst
+job. However, you still may need additional career advice on top
+of the skills needed for data analyst. So, if you feel like you need
+further preparation, you can jump to the later sections of the data
+science career guide. We’re sure those will come in handy as a
+quick reference once you start sending out application forms and
+going to interviews.
+If you want to broaden the scope of your
+work as a data analyst and have more
+impact, you need to  gain an in-depth
+understanding of how business work and
+how to apply data to reach practical business
+solutions.
+What does a BI analyst do?
+Data is business and business is data. That’s probably every BI
+analyst’s motto.
+BI analysts possess a blend of business vision, consultant abilities
+and profound understanding of data. Not to mention they are
+fierce Tableau ninjas. Their job often requires work alongside senior
+management to shape and develop a data strategy. Analysis of
+Key Performance Indicators (KPIs), accurate overview of business
+performance and identifying areas that need improvement are all
+in the BI analyst’s domain.
+But that’s not all. Another part of a BI analyst’s job is to continually
+improve their company’s competitive positioning. Therefore, they
+examine their competitors, data trends, seasonality, and other
+random effects to quickly identify issues and best practices.
+On top of that, they create killer graphs and dashboards to review
+major decisions and measure effectiveness. Do you want to have an
+impact on the business world? Become a BI analyst!
+How much does a BI analyst make?
+How much do BI analysts make?
+We found the answer in Glassdoor and PayScale.
+If you’re new to the profession (with 1 year of experience or less),
+you can count on $66,000 average pay. Once you’ve gained a few
+years of experience and you’ve honed your persuasion skills, your
+median annual pay can reach $79,000 (plus $5,185 average bonus).
+Do you want to work in the UK? An entry-level BI analyst can expect
+to earn an average total pay of £26,000. And, by all means, 1-4
+years of experience will grant you an average total compensation
+of £29,000. Sounds like advanced excel skills truly pay off in the end!
+What’s the BI analyst career path?
+If you want to pursue the business intelligence analyst career path,
+you can first consider gaining some experience as a data analyst
+or a business analyst. A BI analyst career has a lot to offer but you
+definitely need some high-level skills. So let’s see what education
+and qualifications will pave your way to success.
+How to become a Business Intelligence
+analyst?
+Is the business intelligence career path right for you? Well, if you’re
+interested in business performance, calculating KPIs and extracting
+insights from past historical data, this might be an opportunity
+worth looking into. However, a BI analyst has many other
+responsibilities and tasks to complete daily. That’s why we created
+this article - to provide insight into what a BI analyst does, what
+education and skills you need to fit the bill, and how much you can
+earn in this role. Practically, everything that will get you past those
+first initial steps on your way to a new career.
+What education do you need to become a
+BI analyst?
+Generally speaking, landing a job as a BI analyst should come
+relatively easy, if you have a bachelor’s degree in one (or more)
+of the following, computer science, engineering, mathematics,
+Who is a BI analyst?
+A BI analyst is the best friend of business
+performance, focusing primarily on analyses
+and reporting of past historical data. Once the
+relevant data is in the hands of the BI Analyst
+(monthly revenue, customer, sales volume,
+etc.), they must quantify the observations,
+calculate KPIs and examine the measures to
+extract insights from their data.
+Starting a Career in Data Science: Ultimate Guide
+BI analyst: top priority
+Taking the business strategy into consideration.
+This guarantees that the analytics a BI analyst
+provides will ensure the competitive edge of the
+company.
+Median salary: USA
+Entry level: $66,000
+1-4 years of experience: $79,000 + $5,185 average
+bonus
+Median salary: UK
+Entry level: £26,000
+1-4 years of experience: £29,000..
+statistics, finance, business administration, economics or
+related field. But don’t get discouraged if your background is in
+contemporary dance or Classical Indian literature.
+Fortunately, there are no limits to learning. And it’s never late to
+acquire the crucial skills for a BI analyst position, such as Excel,
+SQL, Python, and Tableau. Today, there are plenty of specializations
+and all-around online certificate courses that will give you the
+knowledge and confidence required for the job.   And here’s a small
+tip: if you’re new to the data science field, an internship in the
+financial industry would be a great start. It will help you understand
+all business processes. Plus, you’ll get an idea of the kinds of
+projects a BI analyst undertakes.
+What BI analyst Qualifications you
+should acquire?
+A data science job is all about the skillset, and the BI analyst path
+makes no exception. So, here’s a list of skills you need to become
+a BI analyst.
+Technical skills:
+•
+Advanced SQL Skills;
+•
+Experience with Power BI;
+•
+Advanced Tableau Desktop and Server abilities;
+•
+Advanced Excel skills;
+•
+Programming skills (Python or R are highly desirable);
+•
+Data interpretation and recommendations based on findings;
+•
+Development of graphs, dashboards, reports, and presenta-
+tions of project results;
+•
+Identification, analysis, and interpretation of trends or pat-
+terns in complex data sets.
+Practical skills:
+•
+Strong planning and organization skills
+•
+Learning concepts quickly, and applying them to come up
+with creative solutions;
+•
+Analytical skills;
+•
+Impeccable attention to detail,
+•
+Ability to work independently in a fast-paced and rapidly
+changing environment;
+•
+Presentation skills;
+•
+Ability to design rich data visualizations and dashboards to
+communicate complex ideas to business partners and leader-
+ship;
+•
+Ability to persuade;
+•
+Flexibility and adaptability.
+Soft skills:
+•
+Excellent verbal and written communication skills.
+•
+Ability to work well as part of a team in a high pressure, agile
+environment;
+•
+Ability to collaborate with Performance Management to
+understand and analyze data on individual and team perfor-
+mance;
+•
+Willingness to assist and coach other project teams when
+required;
+•
+Fast in understanding what other people need.
+So, now you know what to expect from a BI analyst job and what
+you need to aim for it. However, some extra career insights are
+always desirable. So, if you’re motivated to expand your know-how,
+you can continue to the career-focused sections down the data
+science career guide. We’re certain they will be a helpful companion
+on your way to a successful data science career.
+The BI analyst skillset
+Excellent communication and presentation skills are
+just as important as degrees and technical competences.
+What does a data engineer do?
+Data engineers are the Jedi Knights of data science. They rely on a
+blend of analysis, wisdom, experience, and judgment to make key
+decisions for a company’s success. A data engineer is a self-starter
+who is inspired to complete more than your usual number of tasks.
+But what does that mean? Let’s briefly go over some of the things a
+data engineer does. Data engineers implement complex, large scale
+big data projects with a focus on collecting, managing, analyzing
+and visualizing large datasets. All that massive amount of overwhel-
+ming raw data? Well, they are the ones turning it into insights using
+various toolsets, techniques, and cloud-based platforms. Data en-
+gineers are responsible for building and maintaining ETL pipelines
+which make crucial data accessible for the entire company. They
+also lend a helping hand to BI analysts by designing and supporting
+BI platforms. Who makes sure all big data applications are available
+(and performing properly)? Again, data engineers. And, to top it all,
+they are great team-players. A data engineer knows how to actively
+collaborate with data scientists and executives to build solutions
+and platforms that meet, or even exceed a company’s business
+needs.
+How much does a data engineer earn?
+How much do data engineers make? We asked Glassdoor and
+PayScale to give you the answer. In the U.S., the average pay for a
+data engineer who’s just getting started in his career is $103,000.
+Who is a data
+engineer?
+Interested in big data career opportunities?
+Data engineers are the ones to take things
+further up the data science pipeline. They
+use the data architects’ work as a steppings-
+tone and then preprocesses the available
+data. They are the people who ensure the
+data is clean and organized and ready for the
+analysts to take over.
+Of course, once you hit the 4-6 years’ experience mark, you can ex-
+pect your compensation to rise to $117,000 (plus, you’ll be eligible
+for additional bonuses in the region of $10,000).
+Looking for a data engineer job in the UK? According to PayScale
+research, even if you have less than 1-year experience, you can get
+average pay of £30,000 (this includes bonuses and overtime pay).
+Naturally, with experience comes a higher salary. A data engineer
+with 1-4 years of experience earns an average total compensation
+of £41,000. And it only gets better! Once you have 5-9 years of expe-
+rience, your annual pay can hit £54,000. Big data, big rewards!
+What’s the data engineer career path?
+If you’re excited about big data career opportunities, this career
+path could be the one for you. A developer’s or software enginee-
+ring experience can be the gateway to a data engineer’s job. But
+what if you’re new to the field and you’re not sure you’ve got what
+it takes to get there? Don’t worry. Here are the education and quali-
+fications that will open the door to a data engineer career.
+“Data engineers test large-scale
+processing systems, develop
+processes for data modeling,
+and recommend ways to
+increase data efficiency.”
+Data Engineer: top priority
+Building and maintaining ETL pipelines which
+make crucial data accessible for the entire
+company
+Median salary: USA
+Entry level: $103,000
+4-6 years of experience: $117,000
+Median salary: UK
+Entry level: £30,000
+1-4 years of experience: £41,000
+5-9 years of experience: £54,000
+What education do you need?
+A degree in software engineering, computer science, or information
+technology will give you a flying start. However, if that’s not the
+case, you can still make the cut. But you need skills in computer
+programming and software design, statistical modeling and regres-
+sion analysis, Python, SQL, and Machine learning. Now, before you
+rush into writing off your dream job, you should know that acqui-
+ring these skills is absolutely possible, even for complete beginners.
+All you have to do is enroll in a qualification program or commit to a
+comprehensive data science training. Once you follow the curricu-
+lum and gain experience with real-world exercises and projects, you
+will have the skills, confidence, and the portfolio to apply for a data
+engineer position.
+How to Become a data engineer?
+The data engineer path is one of the best choices you can make if
+you’re driven to succeed in the data science field.
+But how to become a data engineer?
+This overview will help you learn about the responsibilities of a
+data engineer, the education requirements, the skills you need to
+acquire (or just sharpen, if you have previous experience) and the
+expected salary of a data engineer in the U.S. and the UK.
+What data engineer qualifications you
+should acquire?
+A data engineer job comes with certain responsibilities. Here’s a
+list of competences and skills you need to become a data engineer
+who knows their stuff.
+Technical skills:
+•
+Knowledge of data modeling for both data warehousing and
+Big Data;
+•
+Experience in the Big Data space (Hadoop Stack like M/R,
+HDFS, Pig, Hive, etc.);
+•
+Ability to write, analyze, and debug SQL queries;
+•
+Experience with at least one scripting language (e.g. Python);
+•
+Mathematics;
+Practical skills:
+•
+Data visualization skills (make Tableau your best friend);
+•
+Analytical skills;
+•
+Ability to make sound decisions, even in the absence of com-
+plete information;
+•
+Ability to follow through on commitments and make sure
+others do the same;
+•
+Personal responsibility for decisions, actions, and failures;
+•
+Establishment of clear processes for monitoring work and
+measuring results;
+•
+Design of feedback loops into work;
+•
+Strong attention to detail;
+•
+Ability to think critically and conceptually.
+Soft skills:
+•
+Very strong communication skills in a variety of settings.
+Well, now you’re in-the-know about what it’s like to be a data en-
+gineer and how to get there. Of course, better preparation means
+higher chances of success. So, if you want to gain more useful
+insight into your future career options, you can find our resume
+and portfolio tips in the later sections of the data science career
+guide. We believe they will give you the information you need to
+make the first steps into a rewarding data science career.
+What about machine learning engineers?
+Well, if you want to tread the machine learning career path, you’ll
+certainly need solid knowledge of machine learning theory and
+understanding of deep learning. However, both aren’t exactly
+entry-level positions. So, if you want to pursue a data mining career,
+or land a job machine learning, you can start off with learning the
+fundamentals of software engineering and gradually build your way
+up through careers in big data.
+Author’s note:  Some of you may wonder what
+the differences between a data engineer, a data
+mining engineer, and a machine learning engi-
+neer are. Although they’re all in the realm of data
+science engineering, these roles all have specific
+responsibilities that distinguish them from the rest.
+Data engineers are typically more focused on
+back-end solutions and data sources integration.
+Data mining engineers, on the other hand, are
+also involved in developing models to extract ac-
+tionable insights from a data set
+“A data engineer knows how
+to actively collaborate with
+data scientists and executives
+to build solutions and platfor-
+ms that meet, or even exceed
+a company’s business needs.”
+A data engineer must have a highly
+technical mindset, be in the know about
+current and emerging technologies, and
+thrive as a collaborative team player.
+Learn Data Science from experts.
+Preview the training
+Who is a data architect?
+Starting a Career in Data Science: Ultimate Guide
+If you’ve seen the 1999 cult movie The Matrix,
+you probably recognize the Architect as the
+creator of the utopian world for human minds
+to inhabit. Much like their blockbuster coun-
+terpart, data architects create the database
+from scratch. They design the way data will
+be retrieved, processed, and consumed.
+What does a data architect do?
+Do you have an analytical and creative mind? Are you a problem
+solver, driven by curiosity and excitement to build complex
+database systems? Then you might be perfect for a career as a
+data architect. Data architects are technical experts who adapt
+dataflow management and data storage strategy to a wide range
+of businesses and solutions. They’re in charge of continually
+improving the way data is collected and stored. Furthermore, data
+architects control the access to data (all you corporate spies out
+there – now you know who to look for). Data architects are also
+responsible for design patterns, data modeling, service-oriented
+integration, and business intelligence domains. They often part-
+ner with fellow data scientists and IT guys to reach the company’s
+data strategy goals.
+A data architect constantly seeks out innovations to provide
+improved data quality and reporting, eliminate redundancies, and
+provide better data collection sources, methods, and tools.
+How much does a data architect earn?
+According to Glassdoor’s salaries report, the average annual
+pay for entry-level data architects in the U.S. is approximately
+$104,000, while professionals with 4-6 years of experience make
+more than $125,000 (and can easily get bonuses in the region
+of $10,000 a year). What about the UK? As a data architect early
+in your career, you can earn an average total compensation of
+£45,000. However, a mid-career Data Architect with 5-9 years of
+experience can get as much as £55,000 (including bonus and over-
+time pay). So, you’re in for solid growth!
+What’s the data architect career path?
+If you want to go into the data architect realm, first you should
+know what education and qualifications will help you get there.
+How to Become a Data Architect?
+If you’ve set your data science career goals in that direction, we
+have two things to say.
+First off– great choice! The data architect role is on the rise with its
+increasing importance for enterprises and their business success.
+And, second – this article is the right place to start, as it gives you
+a succinct overview of everything you need to make the first bold
+steps on the data architect career track. You will learn about the
+responsibilities of the data architect job, the education requi-
+rements, the necessary skills, and the salary you can expect at
+various stages of your data architect career.
+What education do you need to become a
+data architect?
+If you want to become a data architect, a Bachelor’s degree in
+information systems, computer science, engineering, or related
+field will definitely give you a competitive edge. But don’t be quick
+to despair if you’ve studied something entirely different. It turns
+out, these are by no means prerequisites to get the job. According
+to LinkedIn job offers, employers are much more interested in
+Data architects design powerful database models and
+implement solutions to store and retrieve company
+data in an effective way.
+relevant work experience than in shiny degrees. In their own words,
+“Bachelor`s degree in Computer Science is desirable, but will waive
+this requirement entirely if you have significant and applicable
+real-world experience.” So, how can you get there? Well, first of
+all, master Python or R, SQL, Tableau, and gain experience in data
+modeling and machine learning. The good news is, you can build
+up your knowledge from scratch with some additional qualification
+courses or by enrolling in an online certificate data science training.
+What data architect qualifications you
+should acquire?
+Here are the qualifications and skills you need to become a data archi-
+tect that truly stands out.
+Technical skills:
+•
+Strong data modeling skills;
+•
+Database architecture;
+•
+Data warehousing experience;
+•
+Data governance know-how;
+•
+Experience with Python or R;
+•
+Experience with SQL;
+•
+Good command of data visualization tools (e.g. Tableau);
+•
+Knowledge of data retention concepts and practices;
+•
+Automation of data flows and integrations.
+•
+Understanding of XML and Java.
+Practical skills:
+•
+Ability to lead multiple, highly complex efforts simultaneously;
+•
+Establishment and implementation of standards and guidelines;
+•
+Ability to determine key architecture solutions that meet perfor-
+mance, scalability, reliability, and security needs;
+•
+Research and evaluation of emerging data management techno-
+logies for applicability and adoption;
+•
+Ability to present technical concepts to upper-level management
+and officers;
+•
+Ability to work independently;
+•
+Strong problem - solving skills;
+•
+Strong attention to detail.
+Soft skills:
+•
+Strong communication skills;
+•
+Provision of technical leadership and guidance to the project
+team as appropriate.
+Now you know what it takes to become a data architect. However,
+some useful career tips are never too much. So, if you want to take
+your job preparation to the next level, just scroll down the data
+science career guide. We believe the information on employment
+opportunities we’ve provided will help you with the first steps into a
+successful data science career.
+Data architects are responsible for creating
+secure frameworks for databases that can
+serve the needs of hundreds or thousands of
+people.
+What’s the Data
+Science job outlook?
+Data science is an ever-evolving field, as technologies change quickly. Therefore,
+you should be prepared that any data science job will require continuous lear-
+ning and development of competences and skills
+Starting a Career in Data Science: Ultimate Guide
+What’s the Demand for Data Science Pro-
+fessionals?
+We understand that before you invest all the time and effort into
+a new data science career, you would want to know if the data
+scientist job outlook (or any other data science and analytics job
+outlook) is positive enough to guarantee you secure occupation
+and future growth.
+So, to put your Shakespearean doubts to rest, we decided to dig
+into the numbers. We used data and insights from the extensive
+joint research performed by IBM, Burning Glass Technologies, and
+Business-Higher Education Forum (BHEF) -  The Quant Crunch: How
+The Demand For Data Science Skills Is Disrupting The Job Market.
+Here’s everything you need to know about the data science career
+outlook in a nutshell.
+What’s the future of data science jobs?
+According to the report, by 2020 the number of data science and
+analytics job listings is estimated to grow by nearly 364,000 listings
+to about 2,720,000 openings. In fact, there is a serious concern that
+the data science skill gap will continue widening and the supply
+of data scientist and data analytics career talent won’t be able to
+catch up to the industries` demand. Therefore, now is literally the
+best time to become a data science specialist.
+What’s the future of data science jobs?
+Indeed, the future of data scientists and data engineers is brighter
+than ever. According to the report, they are the jobs most likely to
+suffer from supply shortages, along with BI analysts and other data
+science, analytics, and system developer positions. Moreover, the
+data indicates this tendency will continue to be strong for the years
+to come.
+What’s the job growth in data science?
+Once again, we can say that the only way is up when it comes
+to data science and analytics jobs. As the study shows, the skills
+projected to grow the fastest include advanced analytical compe-
+tencies, such as data science, machine learning, tableau, big data,
+data visualization. Of course, skills in SQL, data analysis, financial
+analysis, data management, mathematics, data warehousing, SQL
+Server, database administration, business intelligence, and ETL
+firmly remain among the most demanded analytics skills.
+All things considered, the law of supply and demand indicates the
+data science job outlook is more than optimistic (and so should be
+you in pursuing your data science career goals).
+Data scientists are key figures for business growth
+As the demand for data science skills is booming, more
+employers than ever are looking to hire data science
+talents in their teams.
+What data science
+qualifications will
+get you on the path
+to success?
+To help you sort things out, we’ve featured the top 5 in-demand types of data
+science jobs – data analyst, BI analyst, data engineer, data architect, and, of
+course, data scientist.
+Starting a Career in Data Science: Ultimate Guide
+What are data scientists made of?
+According to research, academics may gradually give
+way to real-world, industry-relevant experience.
+Education
+Let’s call a spade a spade - the path to data scientist success invol-
+ves a good amount of studying. And, although data science pros
+come from different backgrounds, there are certain academic areas
+that will make your entry into data science easier. Those include
+computer studies, economics, finance, business studies, statistics,
+and mathematics. Nevertheless, our research shows these are not
+prerequisites to land a data science job. With that said, you can
+make up for lost college time by instead gaining the skills required
+by data science employers.
+Skills
+Now, whether you choose the role of data scientist, data analyst, or
+data mining engineer, there’s a basic skill set you must acquire in
+order to be competitive in the data science job market:
+•
+Excel proficiency;
+•
+Statistics knowledge;
+•
+Maths understanding (specifically calculus and algebra – the
+subfields that are heavily employed in data science);
+•
+Good command of programming languages, such as SQL,
+Python, and R;
+•
+Ability to work with visualization tools (e.g. Tableau);
+•
+Machine learning and deep learning fundamentals.
+But how do you master all of these if you’re starting from scratch?
+Fortunately, there is more than one way to learn data science. For
+instance, you can enroll in a qualification program or study with
+private tutors. However, if going back to school is not an option, an
+online certificate program can be the best start of your professional
+journey.
+Certificates
+According to The Data Scientist Profile 2019 (research based on
+1,001 LinkedIn profiles), 43% of data scientists boast at least 1
+online course in their resume, with 3 certificates being the average.
+Furthermore, those include even graduates of prestigious univer-
+sities! And that is quite an accurate indicator of the importance of
+self-preparation and a proactive approach towards a data science
+career.
+“Fortunately, there is more
+than one way to learn data
+science.”
+In addition to education and technical skills,
+a data scientist needs a solid business
+acumen, in order to identify and solve the
+business problem at hand.
+How to write a data science resume?
+They say you only have 3 seconds to make a great first impression.
+And you can be sure that applies to your job resume, especially in
+the super-competitive field of data science. A well-thought-out and
+carefully designed resume isn’t just a pass to a job interview. As
+a matter of fact, it can pre-determine what questions you will be
+asked during the interview, and, ultimately, whether you’ll get the
+welcome-to-the-company handshake. So, if you want to create an
+outstanding resume that will present you in the best light, you can
+check out our pro tips and data science resume recommendations.
+We believe those will prove useful in your job application process.
+How to build a data science project
+portfolio?
+While a resume matters, your data science career prospects heavily
+depend on your project portfolio. Why? Because it’s the real-life
+proof of what you can do. And that’s what potential employers look
+for when scouting for data science talent. So, how can you build a
+project portfolio if you lack previous experience in the field? Here’s
+what you can do.
+School projects. Those are a good place to start. However, school
+projects are the fruit of teamwork and solutions are provided in the
+end. So, usually, you don’t get to choose the project and you can’t
+truly showcase your individual talent. It is good practice, to begin
+with, mostly because there’s always someone you can approach
+with a question. But overall, it is far better to include personal
+projects in your portfolio;
+Personal projects. This is where you show what your data science
+dreams are made of. Personal projects truly set you apart from the
+rest and demonstrate that you’re serious about getting into data
+science. Just find a problem you’d like to solve, collect the neces-
+sary data, and apply your data science skills to find the solution.
+Course projects. If you’re enrolled in an online data science certifi-
+cate course, you’ll have the chance to build a portfolio by comple-
+ting the larger hands-on projects at the end of the course sections.
+Volunteer work. Although work pro-bono isn’t for everyone, some
+free-of-charge projects for a company or an NGO can do wonders
+for your data science portfolio. Such experience will add extra
+points to your resume and will boost your data science skills.
+How to prepare for a data science inter-
+view?
+Data science interviews comprise tons of topics! There are coding
+and machine learning questions, statistics and mathematics tasks,
+case study scenarios… Not to mention the background check and
+behavioral questions that you can’t possibly escape. As always,
+preparation is key. So, if you want to know what to expect from a
+data science job interview, you can read more on the subject in our
+resource Data Science Interview Questions. We believe it will help
+you maximize your chances to land the job you desire.
+How to get a data science internship?
+Internships are a great steppingstone that will boost your chances
+for a successful career in the long run. As an intern, you will not only
+hone your practical data science skills but will also be able to work
+on a variety of projects. And, as we mentioned above, the latter is a
+deal-maker when you apply for a data science job. Is data scientist a
+good job? An internship at a high-profile company will give you the
+answer. So, if you want to explore the data science opportunities
+you’ll get as an intern,  learn more in our article How to Get a Data
+Science Internship.
+How to get a job in
+data science?
+If you’ve come this far down the article, it’s
+safe to say you’re serious about data scien-
+ce as a career. So, without further ado, let’s
+briefly go through the job application steps
+that will get you where you want to be.
+Starting a Career in Data Science: Ultimate Guide
+Which data science
+industries you
+should consider?
+Where do data scientists work? As it turns out, everywhere! The data
+boom creates demand for data scientist roles across an ever-growing
+variety of industries. From Finance and insurance, through Agriculture and
+Forestry, to Construction – every organization needs solid data science
+skills to exploit their data and gain a competitive edge. So, what type of
+data scientist would you like to be? Here are 3 top industries consider.
+Starting a Career in Data Science: Ultimate Guide
+Finance and Insurance
+Finance and Insurance is, in fact, the industry with the highest
+demand for unique data science and analytics talent. But what
+distinguishes a financial data scientist? Their experience and finan-
+cial domain knowledge. So, if you want to earn the title financial
+data scientist, you should definitely be in-the-know about finan-
+cial markets, portfolio management, risk analysis, profitability,
+delinquency, and closure, among other concepts. Now, you have to
+keep in mind that this is not a job you land without a few years of
+experience in the field. However, if you start as a financial analyst,
+study hard, and keep your eyes on the prize, you can certainly work
+your way up to the coveted financial data scientist position.
+Healthcare
+According to a study published in the Journal of the American
+Medical Informatics Association (JAMIA), the healthcare industry’s
+demand for skilled data scientists is increasing, along with the
+growing quantity and importance of big data in health care. Big
+data is the key to discovering innovative solutions and improving
+the quality of care. At the same time, it can lead to greater efficien-
+cy, thus reducing healthcare expenditures. That said, it comes as no
+surprise that the primary data science skills expected from a health-
+care data scientist are: “statistics, R, machine learning, storytelling,
+and Python.” (Note that this summary is based on the job posting
+research sample.) Of course, gaining some prior experience as a big
+data scientist in any other industry will certainly open the door to a
+data science career in healthcare.
+Manufacturing
+Have you heard about Oden Technologies? This startup company
+has developed a revolutionary Industrial Internet of Things (IIoT)
+platform that helps manufacturers optimize their processes and
+see how the changes they make affect their production in real-time.
+And that’s just one example of how data science is becoming an
+indispensable factor for the success of present-day manufacturers.
+AI-powered industrial robots, product development, and computer
+vision monitoring systems are bound to become more common.
+Which makes perfect sense: they increase quality and thus bring
+more benefits to the companies. Therefore, if you’re looking for
+great career opportunities in the long run, manufacturing is defini-
+tely an industry you should pay attention to.
+And one last thing! If you want to
+become a healthcare data scientist, don’t
+forget honing your data mining skills.
+This is a specific prerequisite for data
+science healthcare jobs, as much of the
+unstructured clinical data is in note format.
+Learn SQL, Python, and R
+Preview the training
+Types of
+organizations to
+consider?
+When browsing data scientist job openings,
+it’s important to be in-the-know about the
+types of data science organizations, what
+they offer, and if they ultimately suit your ca-
+reer needs. After all, you don’t want to spend
+hours researching data center careers, when
+there are plenty other great options out there.
+Data science consulting companies
+Data science consultancies offer outstanding remuneration
+packages and development opportunities. In fact, if you’re on the
+career path for data scientist, you shouldn’t sell yourself short. On
+the contrary – start researching the top companies in the field. This
+will tell you if a big consultancy is the right environment for you.
+Author’s note: If you want to learn more about the big players,
+you can read our article about the Top 15 Data Science Consulting
+Companies Hiring Now.
+Data science startups
+Startups give you the chance to face challenges independently and
+wear multiple hats. Working in a startup can help you grow your
+skillset tremendously in a relatively short period of time. This rings
+especially true if you compare it to working in large corporations
+where it may take years of repetitive tasks before you climb up the
+data science ladder.
+Government data science jobs
+Although this may not be the most popular career choice, an
+increasing number of countries realize the importance of data
+driven innovation and the socio-economic benefits that it can bring.
+For example, in their project the U.S. Climate Resilience Toolkit, the
+U.S. Federal Government has developed a catalog of more than 200
+digital tools to boost climate resiliency. And that certainly indicates
+a positive outlook for data science careers, most prominently data
+analysis careers, careers in data analytics, and careers in big data
+analytics.
+So, how to get a data science job for the government? As a first step,
+you can visit the following government jobs directories:
+USA JOBS – if you’re based in the U.S. and you want to explore a
+wide scope of data science hiring paths;
+The UK – The U.K. government is also recruiting top-notch data
+science talent (make sure you check for job openings in the Office
+for National Statistics, the Office of Gas and Electricity Markets, and
+the Cabinet Office);
+GovtJobsPortal – Although finding a government data science job
+in India is challenging, there are plenty of IT and computer science
+positions that can be a great entrance to future data science job
+openings.
+Now that you’re aware of the data science employment options,
+types of data scientists, roles, career paths, and job outlook, you’re
+equipped with all the knowledge you need to take the first step on
+your data science career journey.
+However, there’s one more thing to keep in mind – anything
+worthwhile takes time and hard work. So, keep learning and
+improving your skills, don’t stay still, master different technologies,
+and opportunities for a career in data science will show up.
+Starting a Career in Data Science: Ultimate Guide
+With this guide, we aimed to shed light on
+everything related to starting a career in data
+science. We went all the way from exploring
+the most lucrative data science job roles out
+there, through listing the qualifications and
+skills you need to become a competitive
+data science professional, to assisting
+you in making the first confident steps in
+your job search process. We hope it helps
+you broaden your perspective. Moreover,
+we’re positive it will assist you not only in
+understanding how to be a data scientist, but
+also in choosing the best career path to enter
+the data science field.
+Final piece of advice? Learn with curiosity
+and optimism. And don’t be afraid of making
+mistakes along the way.  Just work hard,
+always do your best, and the rest will follow!
+CONCLUSION
+365 Data Science has helped more than 300,000 people launch and advance a career in data science.
+Iliya is the co-founder of 365 Data Science. He’s a Finance graduate with a strong quantitative background
+who chose the exciting path of a startup entrepreneur. Iliya is the author of our online courses in
+Mathematics, Statistics, Machine Learning, and Deep Learning. Iliya has demonstrated a formidable affinity
+for numbers since childhood, winning more than 90 national and international awards and competitions
+through the years. He first started teaching at university while he was helping other students with their
+statistics and econometrics studies (his first happy students).
+Now, Iliya has authored and instructed 5 online courses (and counting!) and he’s happy to share his
+expertise in data science with all aspiring professionals in the field
+About The Author
+Starting a Career in Data Science: Ultimate Guide
+Ready to take the next step?
+365 Data Science offers a complete online data science training program
+with expert instructors that is fun, interactive and beginner friendly. The
+course covers fundamentals (Mathematics, Probability, and Statistics) going
+through programming languages (Python, R, SQL) and finishing off with
+state-of-the-art Machine and Deep Learning.
+You can try the course (12 hours of video instruction) for free.
+Preview the Training
